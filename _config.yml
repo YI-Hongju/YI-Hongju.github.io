@@ -8,7 +8,7 @@ title: "Per aspera ad astra"
 description: > # this means to ignore newlines until "email:"
   Load to Technical Management
 
-email: a-mail@mail.mail
+email: to_hongju@pm.me
 #blog logo
 logo: "/assets/images/hj_logo.png"
 float_logo: true # true, false (default)
@@ -22,10 +22,10 @@ author_image: "/assets/images/author.png" # Origin: author.jpg
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://yi-hongju.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@no-twitter'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,14 +35,14 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://yi-hongju.notion.site
-    desc: Watch my Notion page
-    share_url: https://yi-hongju.notion.site
+    url:	https://yi-hongju.github.io
+    desc: Watch my GitHub Page
+    share_url: https://yi-hongju.github.io
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
+  - icon:	facebook
+    url:	https://yi-hongju.github.io
 #    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
@@ -50,14 +50,14 @@ social:
 
   - icon:	github
     url:	https://github.com/YI-Hongju
-    desc:	Fork me on github
+    desc:	Fork me on GitHub
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
+  - icon:	google-plus
+    url:	https://yi-hongju.github.io
+    desc:	Fork me on GitHub
 #    share_url:
 #    share_title:
 #    share_link:

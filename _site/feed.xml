@@ -6,102 +6,139 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 16 Jul 2022 16:56:52 +0900</pubDate>
-    <lastBuildDate>Sat, 16 Jul 2022 16:56:52 +0900</lastBuildDate>
+    <pubDate>Mon, 18 Jul 2022 20:26:49 +0900</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2022 20:26:49 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>PM 101: 효과적인 협업</title>
-        <description>&lt;p&gt;#Mediator Formats and CSS features&lt;/p&gt;
-
-&lt;p&gt;Examples for different formats and css features&lt;/p&gt;
-
-&lt;p&gt;#Header Formats
-#Header1
-##Header2&lt;/p&gt;
-
-&lt;p&gt;#Blockquotes&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;#Lists
-##orderd lists&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;one&lt;/li&gt;
-  &lt;li&gt;two&lt;/li&gt;
-  &lt;li&gt;three&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;##unorderd lists&lt;/p&gt;
+        <title>PM 101: Part 1</title>
+        <description>&lt;h1 id=&quot;pm의-역할과-종류&quot;&gt;PM의 역할과 종류&lt;/h1&gt;
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;part-1-내용&quot;&gt;Part 1 내용&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Apple&lt;/li&gt;
-  &lt;li&gt;Banana&lt;/li&gt;
-  &lt;li&gt;Plum&lt;/li&gt;
+  &lt;li&gt;PM의 다양한 역할&lt;/li&gt;
+  &lt;li&gt;다양한 PM의 종류&lt;/li&gt;
+  &lt;li&gt;PM, PO 그리고 Program Manager의 차이&lt;/li&gt;
+  &lt;li&gt;Winning PM의 역량&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;#Links
-This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;기대하는-효과&quot;&gt;기대하는 효과&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;지금 PM이라면…
+    &lt;ul&gt;
+      &lt;li&gt;현재 조직 내에서의 역할, 앞으로 하고 싶은 역할&lt;/li&gt;
+      &lt;li&gt;키울 역량&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;예비 PM이라면…
+    &lt;ul&gt;
+      &lt;li&gt;어떤 PM이 되고 싶은가?&lt;/li&gt;
+      &lt;li&gt;따라서 어떤 역량을 키워야 하는가?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;#Combinations&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
+&lt;h2 id=&quot;product-manager란&quot;&gt;Product Manager란?&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Valuable: 고객에게 value를 주는 product&lt;/li&gt;
+  &lt;li&gt;Viable: 비즈니스적으로 성공 가능한 product&lt;/li&gt;
+  &lt;li&gt;참고 도서: Inspired, M. Cagan
+    &lt;blockquote&gt;
+      &lt;p&gt;“Influence without authority”&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;ul&gt;
-    &lt;li&gt;Apple&lt;/li&gt;
-    &lt;li&gt;Banana&lt;/li&gt;
-    &lt;li&gt;Plum&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;pm의-종류&quot;&gt;PM의 종류&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;pm-specialization&quot;&gt;PM specialization&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Technical PM
+    &lt;ul&gt;
+      &lt;li&gt;복잡한 기술을 이해&lt;/li&gt;
+      &lt;li&gt;e.g., Payment, Data-platform, Self-service tool&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Data/AI(ML) PM
+    &lt;ul&gt;
+      &lt;li&gt;Data-science, AI(ML) engineer와 협업&lt;/li&gt;
+      &lt;li&gt;Algorithm 개발&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;business-type&quot;&gt;Business type&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;B2B
+    &lt;ul&gt;
+      &lt;li&gt;기능 추가/개선이 체계적&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;B2C
+    &lt;ul&gt;
+      &lt;li&gt;실험 ~ 런칭이 빠른 템포&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;product-manager-vs-projectprogram-manager&quot;&gt;Product Manager vs Project/Program Manager&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Product
+    &lt;ul&gt;
+      &lt;li&gt;내/외부 이해관계자들(특히 개발팀) 모두에 집중&lt;/li&gt;
+      &lt;li&gt;전략, 데이터 분석, 마켓/유저 리서치(, 백로그 관리)&lt;/li&gt;
+      &lt;li&gt;왜/무엇&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Program
+    &lt;ul&gt;
+      &lt;li&gt;내부 이해관계자들에게 집중&lt;/li&gt;
+      &lt;li&gt;전체 팀의 로드맵 및 일정&lt;/li&gt;
+      &lt;li&gt;누가/언제&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;회사 by 회사, 직책 by 직책, Stage by stage&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sat, 16 Jul 2022 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/pm/101/2022/07/16/mediator_features.html</link>
-        <guid isPermaLink="true">http://localhost:4000/pm/101/2022/07/16/mediator_features.html</guid>
+        <pubDate>Mon, 18 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/pm101/2022/07/18/pm-101-part01.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pm101/2022/07/18/pm-101-part01.html</guid>
         
         <category>featured</category>
         
         
-        <category>PM</category>
-        
-        <category>101</category>
+        <category>PM101</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>PM 101: Introduction</title>
+        <description>&lt;h1 id=&quot;강의-목표&quot;&gt;강의 목표&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;실리콘 밸리 PM의 역할 및 역량의 이해&lt;/li&gt;
+  &lt;li&gt;PM 업무 실습&lt;/li&gt;
+  &lt;li&gt;To be Great PM&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;footer&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;site-footer&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
- &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;subscribe&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/feed.xml&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;tooltip&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;fa fa-rss&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/i&amp;gt; Subscribe!&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;inner&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;copyright&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;All&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;content&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;copyright&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mailto:a-mail@mail.mail&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;YI&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Hong&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ju&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt; &amp;amp;copy; 2022 &amp;amp;bull; All rights reserved.&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;poweredby&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Made&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://jekyllrb.com&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/div&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/footer&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
+&lt;h1 id=&quot;강의-목차&quot;&gt;강의 목차&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Part 1. PM 101&lt;/li&gt;
+  &lt;li&gt;Part 2-1. 문제 및 아이디어 발굴&lt;/li&gt;
+  &lt;li&gt;Part 2-2. 방향 설정 및 우선순위 정하기&lt;/li&gt;
+  &lt;li&gt;Part 2-3. 실행&lt;/li&gt;
+  &lt;li&gt;Part 3. 성과 내는 PM 되기&lt;/li&gt;
+&lt;/ol&gt;
 </description>
-        <pubDate>Fri, 29 Aug 2014 23:34:25 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 18 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/pm101/2022/07/18/pm-101-introduction.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pm101/2022/07/18/pm-101-introduction.html</guid>
         
         <category>featured</category>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>PM101</category>
         
       </item>
     
