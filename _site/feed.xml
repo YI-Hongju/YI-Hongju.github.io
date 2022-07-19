@@ -6,9 +6,350 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Jul 2022 20:26:49 +0900</pubDate>
-    <lastBuildDate>Mon, 18 Jul 2022 20:26:49 +0900</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2022 21:43:53 +0900</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2022 21:43:53 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>PM 101: Part 2</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+&lt;h2 id=&quot;pm-process-learn-build-measure&quot;&gt;PM process: Learn-Build-Measure&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Data -&amp;gt; &lt;strong&gt;Learn&lt;/strong&gt; -&amp;gt; Ideation
+    &lt;ol&gt;
+      &lt;li&gt;문제 및 아이디어 발굴&lt;/li&gt;
+      &lt;li&gt;방향 설정 및 우선순위 정하기&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ideation -&amp;gt; &lt;strong&gt;Build&lt;/strong&gt; -&amp;gt; Product
+    &lt;ol&gt;
+      &lt;li&gt;실행&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Product -&amp;gt; &lt;strong&gt;Measure&lt;/strong&gt; -&amp;gt; Data&lt;/li&gt;
+  &lt;li&gt;Background: Research, “Data”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Outcome over output&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;1-문제-및-아이디어-발굴&quot;&gt;1. 문제 및 아이디어 발굴&lt;/h1&gt;
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;강의-내용&quot;&gt;강의 내용&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;문제 및 아이디어 발굴을 위한 리서치 및 디자인 프로세스&lt;/li&gt;
+  &lt;li&gt;Target-user 정의&lt;/li&gt;
+  &lt;li&gt;유저 문제 정의: 어떤 문제를 해결할 것인가?&lt;/li&gt;
+  &lt;li&gt;창의적 idea를 발굴하는 방법&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;기대-효과&quot;&gt;기대 효과&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;나 != 사용자임을 인지하고 고객 관점에서 미해결 상태의 근본적 니즈를 충족시킬 프로덕트를 개발할 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;리서치-및-디자인-프로세스-double-diamond&quot;&gt;리서치 및 디자인 프로세스: “Double diamond”&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Design the right thing”, “Design things right”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Problem
+    &lt;ol&gt;
+      &lt;li&gt;문제 정의 -&amp;gt; 발견(확산적 사고) -&amp;gt; 인사이트 및 가설 수립&lt;/li&gt;
+      &lt;li&gt;수립된 인사이트 및 가설 -&amp;gt; 정의(수렴적 사고) -&amp;gt; 기회 정의&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Solution
+    &lt;ol&gt;
+      &lt;li&gt;정의된 기회 -&amp;gt; 개발(잠재 솔루션, 확산적 사고) -&amp;gt; 컨셉, 프로토타입 제작
+        &lt;ul&gt;
+          &lt;li&gt;솔루션 != Only prototype. ABtest, Beta-test&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;제작된 컨셉, 프로토타입 -&amp;gt; 도출(솔루션 도출, 수렴적 사고) -&amp;gt; 개발(할) 솔루션&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;사용자고객-정의-data로-구분할-수-있다&quot;&gt;사용자/고객 정의: Data로 구분할 수 있다&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;target-user-정의&quot;&gt;Target-user 정의&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;인구 통계학적 방법론&lt;/li&gt;
+  &lt;li&gt;군집 분석론&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;user-정의구분-예시&quot;&gt;User 정의/구분 예시&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;배민
+    &lt;ul&gt;
+      &lt;li&gt;판매자&lt;/li&gt;
+      &lt;li&gt;라이더&lt;/li&gt;
+      &lt;li&gt;소비자&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;슬랙: 구매자 != 사용자
+    &lt;ul&gt;
+      &lt;li&gt;구매자 e.g., IT 팀&lt;/li&gt;
+      &lt;li&gt;사용자&lt;/li&gt;
+      &lt;li&gt;3rd party developer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;중요성-예시&quot;&gt;중요성 예시&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;모든 고객군에 고루 집중하다가 하나의 고객군도 잡지 못하고 망한 헬스장
+    &lt;h4 id=&quot;해결방안&quot;&gt;해결방안&lt;/h4&gt;
+  &lt;/li&gt;
+  &lt;li&gt;특정 Target-user군에 집중 e.g., 파워 리프터&lt;/li&gt;
+  &lt;li&gt;“Data-based Persona” 방법론&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;유저-문제-정의&quot;&gt;유저 문제 정의&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;고객-관점에서의-프로덕트-개발&quot;&gt;고객 관점에서의 프로덕트 개발&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;문제에 집중 하면
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Fall in love with problem, not the solution&lt;/em&gt;: 편향 방지&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Technology in search for a problem&lt;/em&gt;: 개발을 위한 개발 방지&lt;/li&gt;
+      &lt;li&gt;User workflow에서 놓쳤던 부분 찾을 수 있음&lt;/li&gt;
+      &lt;li&gt;목표에 도달할 수 있는 경로는 다양 -&amp;gt; 다양한 솔루션 시도 가능&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;jobs-to-be-done-framework&quot;&gt;Jobs-to-be-done Framework&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;유저가 겪는 문제의 상황/동기/해결후모습 등을 찾음&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Job: Hire로 이루고자 하는 목표/기대 결과. Fire 할 수 있음&lt;/li&gt;
+  &lt;li&gt;시장에 대한 관점
+    &lt;ul&gt;
+      &lt;li&gt;기존: 고객은 특정 제품을 원한다&lt;/li&gt;
+      &lt;li&gt;JTBD: 고객은 특정 job을 해결하고자 한다&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;모든 팀원이 솔빙 과정에 참여하고 고객의 근본적 니즈에 공감&lt;/li&gt;
+  &lt;li&gt;Job의 종류
+    &lt;ol&gt;
+      &lt;li&gt;Functional: 해결 여부를 수치화 할 수 있음&lt;/li&gt;
+      &lt;li&gt;Emotional&lt;/li&gt;
+      &lt;li&gt;Social&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tips
+    &lt;ul&gt;
+      &lt;li&gt;특정 context에 발생하는 경우가 많으므로 특정 상황에 맞는 JTBD 작성&lt;/li&gt;
+      &lt;li&gt;Statement는 구체적으로 작성&lt;/li&gt;
+      &lt;li&gt;유저 리서치 등으로 새 정보를 수집 -&amp;gt; 업데이트&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;customer-journey-map&quot;&gt;Customer Journey Map&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;사용자가 job을 해결하기 위해(목표를 이루기 위해) 거치는 과정&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;목적: …, 고객에 대한 내부의 이해 align, 공동의 목표 및 비전 수립&lt;/li&gt;
+  &lt;li&gt;용도
+    &lt;ul&gt;
+      &lt;li&gt;유저 이탈 줄이기 e.g., UX 개선&lt;/li&gt;
+      &lt;li&gt;신규 기능 개발 기회 발굴&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Experience map&lt;/em&gt;: 프로덕트가 없을 때 잠재 고객들이 현재 겪는 어려움 등 기존 문제의 해결 프로세스를 이해&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tips&quot;&gt;Tips&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;사용자가 프로덕트 밖에서 겪는 고민과 프로세스 등도 고려&lt;/li&gt;
+  &lt;li&gt;사실 기반의 작성, 가정을 할 경우 명확히 표기하고 리서치로 확인&lt;/li&gt;
+  &lt;li&gt;현 상황인지 ideal-state인지 명확히 구분&lt;/li&gt;
+  &lt;li&gt;성공 지표를 런칭 전 미리 디자인&lt;/li&gt;
+  &lt;li&gt;새 정보 수집 -&amp;gt; 업데이트&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;example&quot;&gt;Example&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;인지&lt;/li&gt;
+  &lt;li&gt;고려&lt;/li&gt;
+  &lt;li&gt;구매&lt;/li&gt;
+  &lt;li&gt;첫사용경험&lt;/li&gt;
+  &lt;li&gt;충성심및선호도
+    &lt;blockquote&gt;
+      &lt;p&gt;등을 특정 유저와 JTBD Framework 기반으로 작성&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;아이디어-발굴-나와-유저는-다르다-유저와-공감하는-것이-중요&quot;&gt;아이디어 발굴: 나와 유저는 다르다. 유저와 공감하는 것이 중요&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;리서치&quot;&gt;리서치&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;관찰&lt;/li&gt;
+  &lt;li&gt;경쟁자 직/간접 조사&lt;/li&gt;
+  &lt;li&gt;현/잠재 고객 인터뷰&lt;/li&gt;
+  &lt;li&gt;설문(지)&lt;/li&gt;
+  &lt;li&gt;기타 e.g., 소셜 미디어(포럼, 커뮤니티), 앱스토어 리뷰&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;go-broad-to-go-narrow-고객의-솔루션을-위한-다양한-창의적-기회-발굴&quot;&gt;Go broad to go narrow: 고객의 솔루션을 위한 다양한 창의적 기회 발굴&lt;/h3&gt;
+
+&lt;h3 id=&quot;brainstorming&quot;&gt;Brainstorming&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;아이디어의 양으로 승부&lt;/li&gt;
+  &lt;li&gt;평가/판단 보류&lt;/li&gt;
+  &lt;li&gt;시각화&lt;/li&gt;
+  &lt;li&gt;타인 기반의 아이디어로 새 아이디어 창출&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;facilitator&quot;&gt;Facilitator&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;구상 단계에선 대화 금지, 포스트잇에만 작성&lt;/li&gt;
+  &lt;li&gt;라운드당 5분 정도 제한&lt;/li&gt;
+  &lt;li&gt;JTBD 또는 리서치에서 나온 문제 기반으로 주제를 선정&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;Review&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;리서치 밎 디자인 프로세스&lt;/li&gt;
+  &lt;li&gt;Target-user 구분&lt;/li&gt;
+  &lt;li&gt;JTBD를 통한 유저 문제 정의&lt;/li&gt;
+  &lt;li&gt;CJM 그리기&lt;/li&gt;
+  &lt;li&gt;유저 리서치 및 데이터 분석으로 얻은 정성/정량 데이터를 통해 유저 이해도 높이기&lt;/li&gt;
+  &lt;li&gt;큰 기회를 지닌 문제 선정하기&lt;/li&gt;
+  &lt;li&gt;잠재 솔루션 도출 등을 위한 brainstorming 및 정리 방법&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;2-방향-설정-및-우선순위-정하기&quot;&gt;2. 방향 설정 및 우선순위 정하기&lt;/h1&gt;
+&lt;h2 id=&quot;introduction-1&quot;&gt;Introduction&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;강의 내용
+    &lt;ul&gt;
+      &lt;li&gt;프로덕트 전략 및 목표를 세우고 지표를 설정&lt;/li&gt;
+      &lt;li&gt;큰 그림의 로드맵 그리기&lt;/li&gt;
+      &lt;li&gt;다양한 가능성의 아이디어들의 우선순위를 정하고 지표를 설정&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;기대 효과: PM으로서의
+    &lt;ul&gt;
+      &lt;li&gt;전략적 사고 능력&lt;/li&gt;
+      &lt;li&gt;실행 능력&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;product-방향-설정&quot;&gt;Product 방향 설정&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+  &lt;li&gt;Tactics. e.g., Objects, Roadmap&lt;/li&gt;
+  &lt;li&gt;Product strategy, 1 ~ 3 years&lt;/li&gt;
+  &lt;li&gt;Product vision, 3 ~ 5 years&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;outcome-over-output-고객이-우리를-hire한-job을-잘-해결했는가&quot;&gt;Outcome over output: 고객이 우리를 hire한 job을 잘 해결했는가?&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Input, 목표 달성을 위한 기능을 출시하는 업무: 리서치, 디자인, 개발&lt;/li&gt;
+  &lt;li&gt;Output, 로드맵 상의 출시 예정 기능들: 개발된 기능
+    &lt;ul&gt;
+      &lt;li&gt;팀간 목표 align&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Outcome, 전략을 현실화하기 위한 목표들: 결과 및 이를 나타내는 지표
+    &lt;ul&gt;
+      &lt;li&gt;Object Key Result&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;업무의-흐름-순방향-로드맵-수립-순서-역방향&quot;&gt;업무의 흐름: 순방향, 로드맵 수립 순서: 역방향&lt;/h3&gt;
+&lt;h3 id=&quot;data-inspired--data-driven&quot;&gt;Data-inspired != Data-driven&lt;/h3&gt;
+&lt;h3 id=&quot;data-inspired-to-challenge&quot;&gt;Data-inspired to Challenge!&lt;/h3&gt;
+
+&lt;h2 id=&quot;overview-목표-로드맵-지표-설정-product의-방향을-설정&quot;&gt;Overview: 목표, 로드맵, 지표 설정 product의 방향을 설정&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;review-1&quot;&gt;Review&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+  &lt;li&gt;Winning 프로덕트 전략 수립 방법&lt;/li&gt;
+  &lt;li&gt;Outcome 기반의 로드맵을 작성&lt;/li&gt;
+  &lt;li&gt;(R)ICE, MoSCoW 등의 프레임워크로 우선순위 정하는 방법&lt;/li&gt;
+  &lt;li&gt;지표 설정 방법&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;3-실행&quot;&gt;3. 실행&lt;/h1&gt;
+&lt;h2 id=&quot;introduction-2&quot;&gt;Introduction&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;강의-내용-1&quot;&gt;강의 내용&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;업무 범위 정하기&lt;/li&gt;
+  &lt;li&gt;Product Requirement Document와 작성&lt;/li&gt;
+  &lt;li&gt;개발을 위한 업무 세그멘테이션&lt;/li&gt;
+  &lt;li&gt;Launch 전/후에 챙겨야 할 것들&lt;/li&gt;
+  &lt;li&gt;Launching vs Landing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;기대-효과-1&quot;&gt;기대 효과&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;전략 및 계획을 실행으로 옮기는 방법을 이해&lt;/li&gt;
+  &lt;li&gt;효과적인 실행을 위한 사고방식 세팅&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lbm-중-build의-단계&quot;&gt;LBM 중 Build의 단계&lt;/h3&gt;
+
+&lt;h2 id=&quot;mvp&quot;&gt;MVP&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Minumum Viable Product (!= Minimum Product, similar with… Minimum Delightful/Desirable Product)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;prd&quot;&gt;PRD&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;PM 및 전략을 실행하는 팀원간의 협업 도구&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;큰 그림, != 상세 설계서&lt;/li&gt;
+  &lt;li&gt;역할 및 특징
+    &lt;ul&gt;
+      &lt;li&gt;비즈니스 밎 고객 목표를 이루기 위한 요구 사항들을 기술&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;디자이너, 개발자 등에게 “How”를 알려주는 도구&lt;/li&gt;
+  &lt;li&gt;“Live” document: 업데이트 친화적&lt;/li&gt;
+  &lt;li&gt;역할이 아닌 것
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;상세&lt;/strong&gt; 디자인 및 개발 방법&lt;/li&gt;
+      &lt;li&gt;100장짜리 &lt;strong&gt;상세&lt;/strong&gt; 보고서&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;명료함이 중요&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 19 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/pm101/2022/07/19/pm-101-part02.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pm101/2022/07/19/pm-101-part02.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>PM101</category>
+        
+      </item>
     
       <item>
         <title>PM 101: Part 1</title>
@@ -101,6 +442,43 @@
   &lt;/li&gt;
   &lt;li&gt;회사 by 회사, 직책 by 직책, Stage by stage&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h1 id=&quot;pm의-스킬&quot;&gt;PM의 스킬&lt;/h1&gt;
+&lt;h2 id=&quot;winning-pm의-요소&quot;&gt;Winning PM의 요소&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Leadership: 설득과 (협엽을 위한)커뮤니케이션&lt;/li&gt;
+  &lt;li&gt;Business&lt;/li&gt;
+  &lt;li&gt;Design&lt;/li&gt;
+  &lt;li&gt;Data&lt;/li&gt;
+  &lt;li&gt;Technology&lt;/li&gt;
+  &lt;li&gt;User empathy
+    &lt;h3 id=&quot;잘하는-것에-집중하되-부족한-부분도-보완&quot;&gt;잘하는 것에 집중하되, 부족한 부분도 보완&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;winning-pm의-자세&quot;&gt;Winning PM의 자세&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Open minded &lt;em&gt;“Strong opinions, Weakly held”&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Curious&lt;/li&gt;
+  &lt;li&gt;Embracing uncertainty
+    &lt;ol&gt;
+      &lt;li&gt;어떤 정보가 부족한가?&lt;/li&gt;
+      &lt;li&gt;그 상황에서 최선의 결정은 무엇인가?&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Domain, Psychology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;review&quot;&gt;Review&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;나는 어떤 PM이 잘 맞을까?: AI(ML)/Data PM, 기술의 유망함 및 취향 적합&lt;/li&gt;
+  &lt;li&gt;강화할 장점 및 보완할 단점: 테크 이해도, 테크 이해도&lt;/li&gt;
+  &lt;li&gt;PM의 매력: 창업의 하위호환 관리 기법/기술&lt;/li&gt;
+  &lt;li&gt;PM으로서의 내 장점: 프로젝트/프로덕트의 성공을 위해 기술 등을 포함한 전체적 내용을 이해하려고 함&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Mon, 18 Jul 2022 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/pm101/2022/07/18/pm-101-part01.html</link>
