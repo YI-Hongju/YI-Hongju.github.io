@@ -6,12 +6,168 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 Jul 2022 21:43:53 +0900</pubDate>
-    <lastBuildDate>Tue, 19 Jul 2022 21:43:53 +0900</lastBuildDate>
+    <pubDate>Fri, 22 Jul 2022 16:22:29 +0900</pubDate>
+    <lastBuildDate>Fri, 22 Jul 2022 16:22:29 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>PM 101: Part 2</title>
+        <title>PM 101: Part 3</title>
+        <description>&lt;h1 id=&quot;part-3-성과-내는-pm&quot;&gt;Part 3: 성과 내는 PM&lt;/h1&gt;
+
+&lt;h1 id=&quot;1-효과적인-협업&quot;&gt;1. 효과적인 협업&lt;/h1&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;강의-내용&quot;&gt;강의 내용&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;효과적인 협업 방법&lt;/li&gt;
+  &lt;li&gt;Product sense&lt;/li&gt;
+  &lt;li&gt;커리어 관리&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;기대-효과&quot;&gt;기대 효과&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good을 넘어 Great PM이 되기 위한 플래닝 및 실행력&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;2-product-sense-pm으로서-level-up-11&quot;&gt;2. Product Sense: PM으로서 level up 1/1&lt;/h1&gt;
+
+&lt;h2 id=&quot;product-sence&quot;&gt;Product sence&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;정의&quot;&gt;정의&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;전략적 사고&lt;/li&gt;
+  &lt;li&gt;창의적 사고&lt;/li&gt;
+  &lt;li&gt;유저 공감력&lt;/li&gt;
+  &lt;li&gt;문제 단순화&lt;/li&gt;
+  &lt;li&gt;차별화된 프로덕트 구상&lt;/li&gt;
+  &lt;li&gt;지속 가능한 비즈니스 모델 구상&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;3-커리어-관리--pm으로서-level-up-22&quot;&gt;3. 커리어 관리:  PM으로서 level up 2/2&lt;/h1&gt;
+
+&lt;h2 id=&quot;development-starts-with-self-awareness&quot;&gt;Development starts with self-awareness&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;궁극적 물음: 미래에 어떤 사람이 되고 싶은가?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;various&quot;&gt;Various&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Business&lt;/li&gt;
+  &lt;li&gt;Research &amp;amp; Design&lt;/li&gt;
+  &lt;li&gt;Engineering&lt;/li&gt;
+  &lt;li&gt;Data&lt;/li&gt;
+  &lt;li&gt;Leadership &amp;amp; Soft skills&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;4-load-to-pm&quot;&gt;4. Load to PM&lt;/h1&gt;
+
+&lt;h2 id=&quot;common-route&quot;&gt;Common route&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;Associate PM Program: Bachelor’s Degree&lt;/li&gt;
+  &lt;li&gt;Transfer
+    &lt;ol&gt;
+      &lt;li&gt;S/W Engineer&lt;/li&gt;
+      &lt;li&gt;Desinger&lt;/li&gt;
+      &lt;li&gt;etc.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Similar jobs
+    &lt;ol&gt;
+      &lt;li&gt;Strategy consulting&lt;/li&gt;
+      &lt;li&gt;Domain expert&lt;/li&gt;
+      &lt;li&gt;Ex CEO&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pm-역량-증명&quot;&gt;PM 역량 증명&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+  &lt;li&gt;Side project&lt;/li&gt;
+  &lt;li&gt;PM의 사고방식 연습
+    &lt;ul&gt;
+      &lt;li&gt;PRD&lt;/li&gt;
+      &lt;li&gt;App teardown&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;사내 로테이션(3 ~ 6개월)&lt;/li&gt;
+  &lt;li&gt;현 직무 내에서 PM과 유사한 업무 수행&lt;/li&gt;
+  &lt;li&gt;Insight를 살리면서 직무 전환&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;면접-접근법&quot;&gt;면접 접근법&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+  &lt;li&gt;나만의 structure&lt;/li&gt;
+  &lt;li&gt;효과적인 delivery&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Fri, 22 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/pm101/2022/07/22/pm-101-part03.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pm101/2022/07/22/pm-101-part03.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>PM101</category>
+        
+      </item>
+    
+      <item>
+        <title>PM 101: Part 2 2/2</title>
+        <description>&lt;h2 id=&quot;prd&quot;&gt;PRD&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;prd의-구성-요소&quot;&gt;PRD의 구성 요소&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;프로젝트 배경 및 고객 문제&lt;/li&gt;
+  &lt;li&gt;목표 및 제외된 사항들&lt;/li&gt;
+  &lt;li&gt;타겟 유저&lt;/li&gt;
+  &lt;li&gt;Use case 및 세부 기능&lt;/li&gt;
+  &lt;li&gt;디자인 및 개발 고려 사항&lt;/li&gt;
+  &lt;li&gt;법률 및 규정&lt;/li&gt;
+  &lt;li&gt;런칭 계획&lt;/li&gt;
+  &lt;li&gt;성공 지표&lt;/li&gt;
+  &lt;li&gt;리스크 및 관리 방안&lt;/li&gt;
+  &lt;li&gt;부록 및 관련 문서&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;segmentation&quot;&gt;Segmentation&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;개발용&quot;&gt;개발용&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;기능을 충분히 쪼갠다: ‘How’의 영역인 task 단위까지 쪼개지 않는다&lt;/li&gt;
+  &lt;li&gt;Definition of done: 쪼갠 기능의 완료(acceptance criteria)를 정의&lt;/li&gt;
+  &lt;li&gt;지표 트래킹을 위한 logging: 개발자와 데이터의 저장 및 접근 방법을 논의&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;agile-project&quot;&gt;Agile project&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Project &amp;gt; Epic &amp;gt; Story &amp;gt; Task&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Project: 팀 목표의 단위, 여러 epic으로 나눠짐&lt;/li&gt;
+  &lt;li&gt;Epic: 사용자의 작은 목표/job 완수의 단위, 여러 use case별 story를 모은 짐&lt;/li&gt;
+  &lt;li&gt;Story(User story): 사용자의 use case 완수의 단위&lt;/li&gt;
+  &lt;li&gt;Task: 개발자가 정의하는 단일 story를 위한 단위&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Fri, 22 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/pm101/2022/07/22/pm-101-part02-01.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pm101/2022/07/22/pm-101-part02-01.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>PM101</category>
+        
+      </item>
+    
+      <item>
+        <title>PM 101: Part 2 1/2</title>
         <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
 &lt;h2 id=&quot;pm-process-learn-build-measure&quot;&gt;PM process: Learn-Build-Measure&lt;/h2&gt;
 &lt;hr /&gt;
