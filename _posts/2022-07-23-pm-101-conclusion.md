@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "PM 101: Conclusion"
+date: 2022-07-23
+categories: PM101
+tags: featured
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+---
+
+# 1. 강의 recap
+
+## 강의 목표
+---
+1. PM의 역할 및 역량 이해
+1. PM 업무 실습
+1. Great PM 되기
+
+## *There is no right answer.*: Flexible execution
+
+# The end.

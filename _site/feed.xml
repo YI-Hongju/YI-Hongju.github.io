@@ -6,12 +6,74 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 22 Jul 2022 16:22:29 +0900</pubDate>
-    <lastBuildDate>Fri, 22 Jul 2022 16:22:29 +0900</lastBuildDate>
+    <pubDate>Sat, 23 Jul 2022 13:25:28 +0900</pubDate>
+    <lastBuildDate>Sat, 23 Jul 2022 13:25:28 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>PM 101: Part 3</title>
+        <title>PM 101: Part 3 2/2</title>
+        <description>&lt;h1 id=&quot;4-pm이-되는-과정&quot;&gt;4. PM이 되는 과정&lt;/h1&gt;
+
+&lt;h2 id=&quot;인성-면접&quot;&gt;인성 면접&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h3 id=&quot;star-framework&quot;&gt;STAR Framework&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Situation&lt;/li&gt;
+  &lt;li&gt;Task&lt;/li&gt;
+  &lt;li&gt;Action&lt;/li&gt;
+  &lt;li&gt;Result&lt;/li&gt;
+  &lt;li&gt;(+ Learning)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;ol&gt;
+  &lt;li&gt;Cross-functional leadership&lt;/li&gt;
+  &lt;li&gt;효과적 커뮤니케이션&lt;/li&gt;
+  &lt;li&gt;피드백 주고 받기&lt;/li&gt;
+  &lt;li&gt;Product sense를 위한 앱 분석&lt;/li&gt;
+  &lt;li&gt;나에 대한 메타 인지 및 커리어 빌딩&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 23 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/pm101/2022/07/23/pm-101-part03-01.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pm101/2022/07/23/pm-101-part03-01.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>PM101</category>
+        
+      </item>
+    
+      <item>
+        <title>PM 101: Conclusion</title>
+        <description>&lt;h1 id=&quot;1-강의-recap&quot;&gt;1. 강의 recap&lt;/h1&gt;
+
+&lt;h2 id=&quot;강의-목표&quot;&gt;강의 목표&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+  &lt;li&gt;PM의 역할 및 역량 이해&lt;/li&gt;
+  &lt;li&gt;PM 업무 실습&lt;/li&gt;
+  &lt;li&gt;Great PM 되기&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;there-is-no-right-answer-flexible-execution&quot;&gt;&lt;em&gt;There is no right answer.&lt;/em&gt;: Flexible execution&lt;/h2&gt;
+
+&lt;h1 id=&quot;the-end&quot;&gt;The end.&lt;/h1&gt;
+</description>
+        <pubDate>Sat, 23 Jul 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/pm101/2022/07/23/pm-101-conclusion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pm101/2022/07/23/pm-101-conclusion.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>PM101</category>
+        
+      </item>
+    
+      <item>
+        <title>PM 101: Part 3 1/2</title>
         <description>&lt;h1 id=&quot;part-3-성과-내는-pm&quot;&gt;Part 3: 성과 내는 PM&lt;/h1&gt;
 
 &lt;h1 id=&quot;1-효과적인-협업&quot;&gt;1. 효과적인 협업&lt;/h1&gt;
